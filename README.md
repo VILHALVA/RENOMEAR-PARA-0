@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
 
-<img src="https://3.bp.blogspot.com/-wa5p691bnfM/XLHzMuTsZRI/AAAAAAAALCQ/_DHUH2dpmhcR7LrvsUCbCNw8qf2EC6bEQCLcBGAs/s1600/Rename.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 O programa "Renomear Arquivos" é uma aplicação de desktop simples e amigável, desenvolvida em Python com a biblioteca Tkinter (tk). Sua principal finalidade é permitir ao usuário renomear arquivos em um diretório escolhido, adicionando "0" como o primeiro caractere do nome do arquivo. Esse recurso pode ser útil quando você deseja padronizar os nomes de arquivos em uma pasta, especialmente quando os nomes dos arquivos começam com números.
