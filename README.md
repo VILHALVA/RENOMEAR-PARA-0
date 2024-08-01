@@ -14,7 +14,10 @@ O programa "Renomear Arquivos" é uma aplicação de desktop simples e amigável
 3. **Feedback ao Usuário:** O programa fornece feedback visual ao usuário para informar que os arquivos foram renomeados com sucesso. Um rótulo de informações é atualizado com uma mensagem após a renomeação.
 
 ## EXECUTANDO O PROJETO:
-1. Execute o arquivo Python.
+1. Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
+```bash
+python CODIGO.py
+```
 2. Isso abrirá uma janela do aplicativo "RENOMEAR +0".
 3. Clique no botão "ESCOLHER" para selecionar o diretório onde estão os arquivos que você deseja renomear.
 4. Aguarde até que o processo seja concluído. Quando terminar, uma mensagem de sucesso será exibida na janela.
